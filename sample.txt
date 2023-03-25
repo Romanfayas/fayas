@@ -3,3 +3,6 @@ print("hi thambi")
 print("ni yenna periya aala ")
 hello fayas
 ama na periya allu
+hi da ollikuchi narayana.
+ippa nanum pesuvenda.
+naruto paithiyam.
